@@ -1,24 +1,26 @@
-Paper title,Github link,Notes and Misc
-"Multi-mapping Image-to-Image Translation via
-Learning Disentanglement",https://github.com/Xiaoming-Yu/DMIT,
-"Flow-based Image-to-Image Translation
-with Feature Disentanglement",,
-"Disentangling Influence: Using disentangled
-representations to audit model predictions",https://github.com/charliemarx/disentangling-influence,
-"Symmetry-Based Disentangled Representation
-Learning requires Interaction with Environments",https://github.com/Caselles/NeurIPS19-SBDRL,https://colab.research.google.com/drive/1KVlSV24c687N_4TLJWwGTkjt3sh9ufWW
-"Learning Disentangled Representation for Robust
-Person Re-identification",https://cvlab-yonsei.github.io/projects/ISGAN/,
-"Learning Disentangled Representations for
-Recommendation",https://jianxinma.github.io/disentangle-recsys.html,
-"Are Disentangled Representations Helpful for
-Abstract Visual Reasoning?",https://git.io/JelEv.,
-On the Fairness of Disentangled Representations,,
-"Explicitly disentangling image content from
-translation and rotation with spatial-VAE",https://github.com/tbepler/spatial-VAE,
-"On the Transfer of Inductive Bias
-from Simulation to the Real World:
-a New Disentanglement Dataset",https://github.com/rr-learning/disentanglement_dataset,
-"Explicit Disentanglement of Appearance and
-Perspective in Generative Models",https://github.com/SkafteNicki/unsuper/,
-Disentangled behavioral representations,,
+|                                                                                                                                                                        | 
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| Paper title,Github link,Notes and Misc                                                                                                                                 | 
+| "Multi-mapping Image-to-Image Translation via                                                                                                                          | 
+| Learning Disentanglement",https://github.com/Xiaoming-Yu/DMIT,                                                                                                         | 
+| "Flow-based Image-to-Image Translation                                                                                                                                 | 
+| with Feature Disentanglement",,                                                                                                                                        | 
+| "Disentangling Influence: Using disentangled                                                                                                                           | 
+| representations to audit model predictions",https://github.com/charliemarx/disentangling-influence,                                                                    | 
+| "Symmetry-Based Disentangled Representation                                                                                                                            | 
+| Learning requires Interaction with Environments",https://github.com/Caselles/NeurIPS19-SBDRL,https://colab.research.google.com/drive/1KVlSV24c687N_4TLJWwGTkjt3sh9ufWW | 
+| "Learning Disentangled Representation for Robust                                                                                                                       | 
+| Person Re-identification",https://cvlab-yonsei.github.io/projects/ISGAN/,                                                                                              | 
+| "Learning Disentangled Representations for                                                                                                                             | 
+| Recommendation",https://jianxinma.github.io/disentangle-recsys.html,                                                                                                   | 
+| "Are Disentangled Representations Helpful for                                                                                                                          | 
+| Abstract Visual Reasoning?",https://git.io/JelEv.,                                                                                                                     | 
+| On the Fairness of Disentangled Representations,,                                                                                                                      | 
+| "Explicitly disentangling image content from                                                                                                                           | 
+| translation and rotation with spatial-VAE",https://github.com/tbepler/spatial-VAE,                                                                                     | 
+| "On the Transfer of Inductive Bias                                                                                                                                     | 
+| from Simulation to the Real World:                                                                                                                                     | 
+| a New Disentanglement Dataset",https://github.com/rr-learning/disentanglement_dataset,                                                                                 | 
+| "Explicit Disentanglement of Appearance and                                                                                                                            | 
+| Perspective in Generative Models",https://github.com/SkafteNicki/unsuper/,                                                                                             | 
+| Disentangled behavioral representations,,                                                                                                                              | 
