@@ -1,4 +1,4 @@
-# Disentanglement_NEURIPS_2019
+# Disentanglement papers at NEURIPS 2019
 TL;DR - On disentangling the menagerie of disentanglement papers 
 
 ## Backdrop
